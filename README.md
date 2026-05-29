@@ -42,7 +42,7 @@ CS grad from Mercer University (May 2026) with a minor in Cybersecurity. I build
 | [helpdesk-ticket-system](https://github.com/jonatakuzi/helpdesk-ticket-system) | CLI-based IT support ticket tracker with persistent SQLite storage | Python · SQLite |
 | [job-tracker](https://github.com/jonatakuzi/job-tracker) | CLI tool to search, save, and export job listings via RemoteOK API | Python · SQLite |
 | [SQLAuthChatApp](https://github.com/jonatakuzi/SQLAuthChatApp) | Java Swing app with SQL-based user authentication and chat UI | Java · SQL |
-| [ESP32-Motion-Light-Detection-System](https://github.com/jonatakuzi/ESP32-Motion-Light-Detection-System) | IoT: PIR motion + LDR sensor on ESP32, activates LED on dark motion | C++ |
+| [sysmon-api](https://github.com/jonatakuzi/sysmon-api) | Flask REST API for real-time system health monitoring - CPU, memory, disk, and process endpoints | Python - Flask |
 
 ---
 
