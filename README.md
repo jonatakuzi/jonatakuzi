@@ -2,7 +2,9 @@
 
 **CS Graduate · Mercer University (May 2026)** | Minor in Cybersecurity | Atlanta, GA
 
-Open to SWE, IT, Cybersecurity, and Technical Roles
+🔍 **Currently seeking:** Entry-level Data Analyst, SWE, IT, and Cybersecurity roles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonatakuzi-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jonatakuzi) [![Email](https://img.shields.io/badge/Email-jonatakuzi%40gmail.com-D14836?style=flat&logo=gmail)](mailto:jonatakuzi@gmail.com)
 
 ---
 
@@ -42,6 +44,8 @@ CS grad from Mercer University (May 2026) with a minor in Cybersecurity. I build
 | [helpdesk-ticket-system](https://github.com/jonatakuzi/helpdesk-ticket-system) | CLI-based IT support ticket tracker with persistent SQLite storage | Python · SQLite |
 | [job-tracker](https://github.com/jonatakuzi/job-tracker) | CLI tool to search, save, and export job listings via RemoteOK API | Python · SQLite |
 | [SQLAuthChatApp](https://github.com/jonatakuzi/SQLAuthChatApp) | Java Swing app with SQL-based user authentication and chat UI | Java · SQL |
+| [csv-data-analyzer](https://github.com/jonatakuzi/csv-data-analyzer) | Load, clean, summarize and visualize CSV datasets with pandas and matplotlib | Python · Pandas · Matplotlib |
+| [sql-analytics-toolkit](https://github.com/jonatakuzi/sql-analytics-toolkit) | SQL queries and Python scripts for sales, HR and business data analysis | Python · SQL · SQLite |
 | [sysmon-api](https://github.com/jonatakuzi/sysmon-api) | Flask REST API for real-time system health monitoring - CPU, memory, disk, and process endpoints | Python - Flask |
 
 ---
